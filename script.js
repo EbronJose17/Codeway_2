@@ -40,5 +40,3 @@ function calculate(button) {
 }
 
 buttons.forEach(button => button.addEventListener("click", () => calculate(button)))
-
-//test commit
